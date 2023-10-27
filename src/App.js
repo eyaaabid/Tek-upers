@@ -20,7 +20,9 @@ function App() {
         <NavBar/>
         <div style={{display:"flex"}}>
           <LeftBar/>
+          <div style={{flex:6}}>
           <Outlet/>
+          </div>
           <RightBar/>
         </div>
       </div>
@@ -30,7 +32,7 @@ function App() {
     if(!currentUser){
       return <Navigate to="/login" />
     }
-    return children
+    return children;
   }
 
 

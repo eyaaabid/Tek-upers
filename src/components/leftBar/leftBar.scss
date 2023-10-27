@@ -1,22 +1,22 @@
 .leftBar{
-flex: 2;
+
     .container{
         padding: 20px;
 
-        hr{
+      /*  hr{
             margin: 20px 0px;
             border: none;
             height: 0.5px;
             background-color: lightgrey;
-        }
+        }*/
         .menu{
             display: flex;
             flex-direction: column;
             gap: 20px;
 
-            span{
+          /*  span{
                 font-size: 12px;
-            }
+            }*/
 
             .user{
                 display: flex;

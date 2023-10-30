@@ -11,6 +11,7 @@ border-bottom: 1px solid themed("border");
 position: sticky;
 background-color: themed("bg");
 color: themed("textColor");
+z-index: 999;
 top: 0;
     .left{
         display: flex;

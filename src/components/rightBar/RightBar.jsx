@@ -12,7 +12,7 @@ const RightBar = () => {
                 src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
-              <span>Eya Abid</span>
+              <span>ines jendoubi</span>
             </div>
             <div className="buttons">
               <button>follow</button>
@@ -25,7 +25,7 @@ const RightBar = () => {
                 src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
-              <span>Eya Abid</span>
+              <span>Hadil hajri</span>
             </div>
             <div className="buttons">
               <button>follow</button>
@@ -42,7 +42,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span>Eya Abid</span> changed their cover picture
+                <span>Mehdi Hamdi</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -54,7 +54,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span>Eya Abid</span> changed their cover picture
+                <span>Ranim Mechmech</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -66,7 +66,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span>Eya Abid</span> changed their cover picture
+                <span>Sirine mhamdi</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -78,7 +78,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span>Eya Abid</span> changed their cover picture
+                <span>amen korchane</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -93,7 +93,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Eya Abid</span>
+              <span>amen korchane</span>
             </div>
           </div>
           <div className="user">
@@ -103,7 +103,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Eya Abid</span>
+              <span>ranim mechmech</span>
             </div>
           </div>
           <div className="user">
@@ -113,7 +113,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Eya Abid</span>
+              <span>fatma layouni</span>
             </div>
           </div>
           <div className="user">
@@ -123,7 +123,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Eya Abid</span>
+              <span>mehdi hamdi</span>
             </div>
           </div>
           <div className="user">
@@ -133,7 +133,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Eya Abid</span>
+              <span>sirine mhamdi</span>
             </div>
           </div>
           <div className="user">
@@ -143,7 +143,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Eya Abid</span>
+              <span>ines jendoubi</span>
             </div>
           </div>
           <div className="user">
@@ -153,7 +153,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Eya Abid</span>
+              <span>Eya ben hamza</span>
             </div>
           </div>
           <div className="user">
@@ -163,7 +163,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Eya Abid</span>
+              <span>hadil hajri</span>
             </div>
           </div>
           <div className="user">
@@ -173,7 +173,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Eya Abid</span>
+              <span>fatma ajengui</span>
             </div>
           </div>
           <div className="user">
@@ -183,7 +183,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Eya Abid</span>
+              <span>yasine nacef</span>
             </div>
           </div>
           <div className="user">
@@ -193,7 +193,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Eya Abid</span>
+              <span>moetaz ghezaiel</span>
             </div>
           </div>
         </div>

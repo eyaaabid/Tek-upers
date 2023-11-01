@@ -12,7 +12,6 @@ import { DarkModeContext } from "./context/darkModeContext";
 import {
   createBrowserRouter,
   RouterProvider,
-  Route,
   Outlet,
   Navigate,
 } from "react-router-dom";
